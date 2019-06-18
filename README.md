@@ -1,7 +1,7 @@
 # Charlie Brown Jr Generator
 
 ### TL;DR
-Gera frases do artista Charlie Brown Jr usando a cadeia de Markov
+Gera frases do artista Charlie Brown Jr usando a cadeia de [Markov](https://pt.wikipedia.org/wiki/Cadeias_de_Markov)
 
 ### Exemplo de algumas frases geradas
  * É difícil pra mim no way Disse que não caio no conto do vigário Eu tenho fé em Deus Pra resolver qualquer parada Chega com respeito na minha quebrada Tamo aí na atividade!
